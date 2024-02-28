@@ -6,20 +6,39 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker" : "minerva",
+			"dialog" : "Screw you, Homer!",
+			"newSpeaker" : "true"
+		},
+		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "miffy",
+			"dialog" : "I'm miffy",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
-			"dialog" : "Moreover he suffered much by sea while trying to save his own life and bring his men safely home."
+			"dialog" : "Moreover he suffered much by sea while trying to save his own life and bring his men safely home.",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
-			"dialog" : "But do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion."
+			"dialog" : "But do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "miffy",
+			"dialog" : "I'm miffy! I'm saying it again!",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
-			"dialog" : "So the gods prevented them from ever reaching home."
+			"dialog" : "So the gods prevented them from ever reaching home.",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
